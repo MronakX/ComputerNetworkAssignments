@@ -1,4 +1,0 @@
-/Users/guodw/Desktop/Handin/Handin/1900012995−WebLab3/CMakeFiles/agent.dir
-/Users/guodw/Desktop/Handin/Handin/1900012995−WebLab3/CMakeFiles/router.dir
-/Users/guodw/Desktop/Handin/Handin/1900012995−WebLab3/CMakeFiles/edit_cache.dir
-/Users/guodw/Desktop/Handin/Handin/1900012995−WebLab3/CMakeFiles/rebuild_cache.dir
