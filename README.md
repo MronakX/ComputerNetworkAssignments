@@ -8,7 +8,7 @@ Full of redundant statement like useless *printf*, so maybe not readable;(
   - A practice for socket programming
   - TBD.
 - [x] Assignment 2 RTP (Reliable Transport Protocol)
-  - A simple **reliable** transport protocol based on **UDP**
+  - A simple(?) **reliable** transport protocol based on **UDP**
   - An imperfect version (It's too hard to get full mark..)
 - [x] Assignment 3 Routing Simulator
   - A simple **TCP-based** simulation of Agent-Router model using **Distance Vector Algorithm**.
