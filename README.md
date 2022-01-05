@@ -1,6 +1,6 @@
 # ComputerNetworkAssignments
 
-Course assignments of course: Computer Network / Fall 2021  by Professor Qun Huang, Peking Univ.
+Course assignments of course: Computer Network / Fall 2021 given by Professor Qun Huang, Peking University
 
 Full of redundant statement like useless *printf*, so maybe not readable;(
 
